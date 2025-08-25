@@ -1,3 +1,5 @@
+**RFM (Recency - Frequency - Monetary) Customer Segmentation Project**
+
 **Key Program Description:**
 
 	•	RFM (Recency, Frequency, Monetary) analysis implementation for customer segmentation
